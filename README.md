@@ -1,1 +1,2 @@
-- Reyhan Jr (organization.owner@gmail.com)
+- Reyhan Jr as Organization-owner (organization.owner@gmail.com)
+- Details information https://gravatar.com/organizationowner
